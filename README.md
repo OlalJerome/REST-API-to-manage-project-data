@@ -10,3 +10,9 @@ Key Features:
 Efficient paginated API.
 Sorting and filtering for better user experience.
 Built using Spring Boot and PostgreSQL.
+
+How to Run:
+1. Install PostgreSQL and create a database named `productdb`.
+2. Update the `application.properties` file with your PostgreSQL credentials.
+3. Run the application using `mvn spring-boot:run`.
+4. Test the API using Postman or your browser.
